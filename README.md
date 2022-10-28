@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/HaleyB-PRAC/DevOps-PRAC/_apis/build/status/HalBWol.pipelines-java?branchName=main)](https://dev.azure.com/HaleyB-PRAC/DevOps-PRAC/_build/latest?definitionId=1&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
